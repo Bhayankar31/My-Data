@@ -2,4 +2,8 @@ Name - Bhayankar Singh Patel
 
 Phone Number = My - 7379789053
 
-              Papa - 9984071401
+# Debit Card 
+
+HDFC Current Account = 50200068943583 / 4038750102102090 = 05/27 [602]
+
+HDFC Loan Account = 50200112241942
