@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -67,7 +66,7 @@
     <h2>Personal Data Saver</h2>
     <form id="dataForm">
       <label for="name">Name:</label>
-      <input type="text" id="name" required />
+      <input type="text" id="Bhayankar" required />
 
       <label for="address">Address:</label>
       <input type="text" id="address" required />
