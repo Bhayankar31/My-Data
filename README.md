@@ -12,6 +12,10 @@ Bank Of Baroda My = 33518100021034
 
 Bank Of Baroda Sister = 33518100021467
 
+HDFC [ Sister Account ] = 50100732838188
+
+HDFC [ My Account ] = 
+
 # Credit Card
 
 HDFC [ Biz_Grow ] = 4577-0460-1031-0074-0496-9646
