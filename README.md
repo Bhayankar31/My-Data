@@ -1,7 +1,5 @@
 Name - Bhayankar Singh Patel
 
-Phone Number = My - 7379789053
-
 # Bank Account
 
 {  Mammy Account  } 
