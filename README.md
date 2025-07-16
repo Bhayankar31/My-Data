@@ -4,17 +4,31 @@ Phone Number = My - 7379789053
 
 # Bank Account
 
+{  Mammy Account  } 
+
 HDFC Current Account = 50200068943583 -0527602 / 4038750102102090
 
 HDFC Loan Account = 50200112241942
 
-Bank Of Baroda My = 33518100021034
+ICICI Bank = 753101000149 - 0424833 / 4838347531000714
 
-Bank Of Baroda Sister = 33518100021467
+{  My Account  }
 
-HDFC [ Sister Account ] = 50100732838188
+Bank Of Baroda = 33518100021034
 
-HDFC [ My Account ] = 
+Aryavart Bank = 611540100130813
+
+Bank Of India = 698118110000190
+
+{  Sister Account  }
+
+Bank Of Baroda = 33518100021467
+
+HDFC = 50100732838188
+
+Aryavart Bank = 11350700001619
+
+Axis Bank = 922010034556429 - 0627018 / 4691970064531213
 
 # Credit Card
 
